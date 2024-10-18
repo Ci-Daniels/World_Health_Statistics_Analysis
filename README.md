@@ -52,6 +52,6 @@ The data provided by the World Health Organization (WHO) contains a wide range o
 4. Africa, particularly Sub-Saharan Africa, has one of the highest rates of adolescent births for girls aged 10-14 globally, driven by factors like cultural norms, poverty, and lack of access to healthcare.
 
 ## Contributors
-  - Mercy Chebet
+  - Mercy Tegekson
   - Kariithi Anne
   - Maureen Jemutai
