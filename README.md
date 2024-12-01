@@ -51,7 +51,3 @@ The data provided by the World Health Organization (WHO) contains a wide range o
 3. Despite high levels of external health aid, the African region has the lowest UHC index globally, as health aid is often targeted and short-term. In contrast, many African countries have underfunded national health systems.
 4. Africa, particularly Sub-Saharan Africa, has one of the highest rates of adolescent births for girls aged 10-14 globally, driven by factors like cultural norms, poverty, and lack of access to healthcare.
 
-## Contributors
-  - Mercy Tegekson
-  - Kariithi Anne
-  - Maureen Jemutai
